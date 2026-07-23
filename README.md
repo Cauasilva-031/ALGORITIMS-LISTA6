@@ -1,2 +1,2 @@
 # ALGORITIMS-LISTA6
-Lista 6
+
